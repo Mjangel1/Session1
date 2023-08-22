@@ -7,6 +7,3 @@ using namespace std;
 	std::cout << "Hello world!";
 
 	return 0;
-
-
-}
